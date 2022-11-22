@@ -1,0 +1,7 @@
+$TenantId=""
+$AppClientId=""
+$TokenUser=""
+$Description1=""
+$Description2=""
+$LogPath=""
+$FolderToContactsSource=""
